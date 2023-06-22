@@ -20,3 +20,4 @@ class Feedback extends Component {
   }
 }
 export default Feedback;
+console.log('Feedback');
