@@ -2,7 +2,7 @@ const { Component } = require('react');
 
 class Feedback extends Component {
   render() {
-    const { options, onLeaveFeedback } = this.props;
+    const { onLeaveFeedback } = this.props;
     return (
       <div>
         <h1>Please leave feedback</h1>
